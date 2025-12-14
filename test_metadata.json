@@ -1,0 +1,110 @@
+{
+  "num_samples": 14,
+  "input_shape": [
+    14,
+    300,
+    60,
+    1
+  ],
+  "labels_shape": [
+    14
+  ],
+  "frame_size": [
+    300,
+    300
+  ],
+  "frame_count": 60,
+  "sequences_per_video": 2,
+  "video_info": [
+    {
+      "angle_folder": "p0",
+      "video_file": "f100.avi",
+      "frequency": 100.0,
+      "sequence_index": 0
+    },
+    {
+      "angle_folder": "p0",
+      "video_file": "f100.avi",
+      "frequency": 100.0,
+      "sequence_index": 1
+    },
+    {
+      "angle_folder": "p0",
+      "video_file": "f25.avi",
+      "frequency": 25.0,
+      "sequence_index": 0
+    },
+    {
+      "angle_folder": "p0",
+      "video_file": "f25.avi",
+      "frequency": 25.0,
+      "sequence_index": 1
+    },
+    {
+      "angle_folder": "p0",
+      "video_file": "f45.avi",
+      "frequency": 45.0,
+      "sequence_index": 0
+    },
+    {
+      "angle_folder": "p0",
+      "video_file": "f45.avi",
+      "frequency": 45.0,
+      "sequence_index": 1
+    },
+    {
+      "angle_folder": "p0",
+      "video_file": "f60.avi",
+      "frequency": 60.0,
+      "sequence_index": 0
+    },
+    {
+      "angle_folder": "p0",
+      "video_file": "f60.avi",
+      "frequency": 60.0,
+      "sequence_index": 1
+    },
+    {
+      "angle_folder": "p1_s1",
+      "video_file": "f80.avi",
+      "frequency": 80.0,
+      "sequence_index": 0
+    },
+    {
+      "angle_folder": "p1_s1",
+      "video_file": "f80.avi",
+      "frequency": 80.0,
+      "sequence_index": 1
+    },
+    {
+      "angle_folder": "p2_s1",
+      "video_file": "f30.avi",
+      "frequency": 30.0,
+      "sequence_index": 0
+    },
+    {
+      "angle_folder": "p2_s1",
+      "video_file": "f30.avi",
+      "frequency": 30.0,
+      "sequence_index": 1
+    },
+    {
+      "angle_folder": "p2_s2",
+      "video_file": "f70.avi",
+      "frequency": 70.0,
+      "sequence_index": 0
+    },
+    {
+      "angle_folder": "p2_s2",
+      "video_file": "f70.avi",
+      "frequency": 70.0,
+      "sequence_index": 1
+    }
+  ],
+  "stats": {
+    "mean_frequency": 58.57143020629883,
+    "std_frequency": 25.172870635986328,
+    "min_frequency": 25.0,
+    "max_frequency": 100.0
+  }
+}
