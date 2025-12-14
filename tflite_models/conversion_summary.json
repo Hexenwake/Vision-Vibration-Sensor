@@ -1,0 +1,477 @@
+[
+  {
+    "model_name": "Baseline",
+    "run": 0,
+    "original_size_mb": 4.760345458984375,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.573211669921875,
+        "compression": 3.0258772865705805
+      },
+      "fp16": {
+        "size_mb": 0.7897911071777344,
+        "compression": 6.027347504576433
+      },
+      "int8": {
+        "size_mb": 0.397918701171875,
+        "compression": 11.963110667996013
+      }
+    }
+  },
+  {
+    "model_name": "Baseline",
+    "run": 1,
+    "original_size_mb": 4.76043701171875,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5733070373535156,
+        "compression": 3.0257520615469664
+      },
+      "fp16": {
+        "size_mb": 0.7899246215820312,
+        "compression": 6.026444652636256
+      },
+      "int8": {
+        "size_mb": 0.3980255126953125,
+        "compression": 11.960130343109066
+      }
+    }
+  },
+  {
+    "model_name": "Baseline",
+    "run": 2,
+    "original_size_mb": 4.76043701171875,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5733070373535156,
+        "compression": 3.0257520615469664
+      },
+      "fp16": {
+        "size_mb": 0.7899246215820312,
+        "compression": 6.026444652636256
+      },
+      "int8": {
+        "size_mb": 0.3980255126953125,
+        "compression": 11.960130343109066
+      }
+    }
+  },
+  {
+    "model_name": "Baseline",
+    "run": 3,
+    "original_size_mb": 4.760643005371094,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5733146667480469,
+        "compression": 3.02586831864415
+      },
+      "fp16": {
+        "size_mb": 0.7899322509765625,
+        "compression": 6.026647221310051
+      },
+      "int8": {
+        "size_mb": 0.398040771484375,
+        "compression": 11.960189373610365
+      }
+    }
+  },
+  {
+    "model_name": "Baseline",
+    "run": 4,
+    "original_size_mb": 4.7606353759765625,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5733184814453125,
+        "compression": 3.025856132830306
+      },
+      "fp16": {
+        "size_mb": 0.7899360656738281,
+        "compression": 6.026608459655104
+      },
+      "int8": {
+        "size_mb": 0.39804840087890625,
+        "compression": 11.959940965633566
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V1",
+    "run": 0,
+    "original_size_mb": 1.5955581665039062,
+    "conversions": {
+      "fp32": {
+        "size_mb": 0.5182266235351562,
+        "compression": 3.0788811188811187
+      },
+      "fp16": {
+        "size_mb": 0.2624015808105469,
+        "compression": 6.080596624362162
+      },
+      "int8": {
+        "size_mb": 0.13385009765625,
+        "compression": 11.920485636114911
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V1",
+    "run": 1,
+    "original_size_mb": 1.5955581665039062,
+    "conversions": {
+      "fp32": {
+        "size_mb": 0.5182266235351562,
+        "compression": 3.0788811188811187
+      },
+      "fp16": {
+        "size_mb": 0.2624015808105469,
+        "compression": 6.080596624362162
+      },
+      "int8": {
+        "size_mb": 0.13385009765625,
+        "compression": 11.920485636114911
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V1",
+    "run": 2,
+    "original_size_mb": 1.5955581665039062,
+    "conversions": {
+      "fp32": {
+        "size_mb": 0.5182266235351562,
+        "compression": 3.0788811188811187
+      },
+      "fp16": {
+        "size_mb": 0.2624015808105469,
+        "compression": 6.080596624362162
+      },
+      "int8": {
+        "size_mb": 0.13385009765625,
+        "compression": 11.920485636114911
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V1",
+    "run": 3,
+    "original_size_mb": 1.5955581665039062,
+    "conversions": {
+      "fp32": {
+        "size_mb": 0.5182266235351562,
+        "compression": 3.0788811188811187
+      },
+      "fp16": {
+        "size_mb": 0.2624015808105469,
+        "compression": 6.080596624362162
+      },
+      "int8": {
+        "size_mb": 0.13385009765625,
+        "compression": 11.920485636114911
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V1",
+    "run": 4,
+    "original_size_mb": 1.5955581665039062,
+    "conversions": {
+      "fp32": {
+        "size_mb": 0.5182266235351562,
+        "compression": 3.0788811188811187
+      },
+      "fp16": {
+        "size_mb": 0.2624015808105469,
+        "compression": 6.080596624362162
+      },
+      "int8": {
+        "size_mb": 0.13385009765625,
+        "compression": 11.920485636114911
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V2",
+    "run": 0,
+    "original_size_mb": 12.30938720703125,
+    "conversions": {
+      "fp32": {
+        "size_mb": 4.089534759521484,
+        "compression": 3.009972510533587
+      },
+      "fp16": {
+        "size_mb": 2.048065185546875,
+        "compression": 6.010251672602107
+      },
+      "int8": {
+        "size_mb": 1.0276718139648438,
+        "compression": 11.977935990616114
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V2",
+    "run": 1,
+    "original_size_mb": 12.30938720703125,
+    "conversions": {
+      "fp32": {
+        "size_mb": 4.089534759521484,
+        "compression": 3.009972510533587
+      },
+      "fp16": {
+        "size_mb": 2.048065185546875,
+        "compression": 6.010251672602107
+      },
+      "int8": {
+        "size_mb": 1.0276718139648438,
+        "compression": 11.977935990616114
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V2",
+    "run": 2,
+    "original_size_mb": 12.30938720703125,
+    "conversions": {
+      "fp32": {
+        "size_mb": 4.089534759521484,
+        "compression": 3.009972510533587
+      },
+      "fp16": {
+        "size_mb": 2.048065185546875,
+        "compression": 6.010251672602107
+      },
+      "int8": {
+        "size_mb": 1.0276718139648438,
+        "compression": 11.977935990616114
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V2",
+    "run": 3,
+    "original_size_mb": 12.30938720703125,
+    "conversions": {
+      "fp32": {
+        "size_mb": 4.089534759521484,
+        "compression": 3.009972510533587
+      },
+      "fp16": {
+        "size_mb": 2.048065185546875,
+        "compression": 6.010251672602107
+      },
+      "int8": {
+        "size_mb": 1.0276718139648438,
+        "compression": 11.977935990616114
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V2",
+    "run": 4,
+    "original_size_mb": 12.30938720703125,
+    "conversions": {
+      "fp32": {
+        "size_mb": 4.089534759521484,
+        "compression": 3.009972510533587
+      },
+      "fp16": {
+        "size_mb": 2.048065185546875,
+        "compression": 6.010251672602107
+      },
+      "int8": {
+        "size_mb": 1.0276718139648438,
+        "compression": 11.977935990616114
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V3",
+    "run": 0,
+    "original_size_mb": 4.660591125488281,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5399436950683594,
+        "compression": 3.0264685263582924
+      },
+      "fp16": {
+        "size_mb": 0.7732696533203125,
+        "compression": 6.027122757858595
+      },
+      "int8": {
+        "size_mb": 0.38973236083984375,
+        "compression": 11.95844018558033
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V3",
+    "run": 1,
+    "original_size_mb": 4.660591125488281,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5399436950683594,
+        "compression": 3.0264685263582924
+      },
+      "fp16": {
+        "size_mb": 0.7732696533203125,
+        "compression": 6.027122757858595
+      },
+      "int8": {
+        "size_mb": 0.38973236083984375,
+        "compression": 11.95844018558033
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V3",
+    "run": 2,
+    "original_size_mb": 4.660591125488281,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5399436950683594,
+        "compression": 3.0264685263582924
+      },
+      "fp16": {
+        "size_mb": 0.7732696533203125,
+        "compression": 6.027122757858595
+      },
+      "int8": {
+        "size_mb": 0.38973236083984375,
+        "compression": 11.95844018558033
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V3",
+    "run": 3,
+    "original_size_mb": 4.660591125488281,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5399436950683594,
+        "compression": 3.0264685263582924
+      },
+      "fp16": {
+        "size_mb": 0.7732696533203125,
+        "compression": 6.027122757858595
+      },
+      "int8": {
+        "size_mb": 0.38973236083984375,
+        "compression": 11.95844018558033
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V3",
+    "run": 4,
+    "original_size_mb": 4.660591125488281,
+    "conversions": {
+      "fp32": {
+        "size_mb": 1.5399436950683594,
+        "compression": 3.0264685263582924
+      },
+      "fp16": {
+        "size_mb": 0.7732696533203125,
+        "compression": 6.027122757858595
+      },
+      "int8": {
+        "size_mb": 0.38973236083984375,
+        "compression": 11.95844018558033
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V4",
+    "run": 0,
+    "original_size_mb": 6.192481994628906,
+    "conversions": {
+      "fp32": {
+        "size_mb": 2.0507164001464844,
+        "compression": 3.0196676606217085
+      },
+      "fp16": {
+        "size_mb": 1.028656005859375,
+        "compression": 6.019973595988963
+      },
+      "int8": {
+        "size_mb": 0.5177841186523438,
+        "compression": 11.95958271324797
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V4",
+    "run": 1,
+    "original_size_mb": 6.192481994628906,
+    "conversions": {
+      "fp32": {
+        "size_mb": 2.0507164001464844,
+        "compression": 3.0196676606217085
+      },
+      "fp16": {
+        "size_mb": 1.028656005859375,
+        "compression": 6.019973595988963
+      },
+      "int8": {
+        "size_mb": 0.5177841186523438,
+        "compression": 11.95958271324797
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V4",
+    "run": 2,
+    "original_size_mb": 6.192481994628906,
+    "conversions": {
+      "fp32": {
+        "size_mb": 2.0507164001464844,
+        "compression": 3.0196676606217085
+      },
+      "fp16": {
+        "size_mb": 1.028656005859375,
+        "compression": 6.019973595988963
+      },
+      "int8": {
+        "size_mb": 0.5177841186523438,
+        "compression": 11.95958271324797
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V4",
+    "run": 3,
+    "original_size_mb": 6.192481994628906,
+    "conversions": {
+      "fp32": {
+        "size_mb": 2.0507164001464844,
+        "compression": 3.0196676606217085
+      },
+      "fp16": {
+        "size_mb": 1.028656005859375,
+        "compression": 6.019973595988963
+      },
+      "int8": {
+        "size_mb": 0.5177841186523438,
+        "compression": 11.95958271324797
+      }
+    }
+  },
+  {
+    "model_name": "Opt-V4",
+    "run": 4,
+    "original_size_mb": 6.192481994628906,
+    "conversions": {
+      "fp32": {
+        "size_mb": 2.0507164001464844,
+        "compression": 3.0196676606217085
+      },
+      "fp16": {
+        "size_mb": 1.028656005859375,
+        "compression": 6.019973595988963
+      },
+      "int8": {
+        "size_mb": 0.5177841186523438,
+        "compression": 11.95958271324797
+      }
+    }
+  }
+]
